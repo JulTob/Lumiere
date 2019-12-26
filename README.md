@@ -1,2 +1,2 @@
-# Animation
-Animation Code and Stuff
+# Animation & Games
+Animation By Coding and Interactive animations (games)
