@@ -1,5 +1,3 @@
-import Processing;
-
 
 float[] coswave; 
 
